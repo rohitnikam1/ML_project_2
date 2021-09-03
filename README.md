@@ -2,7 +2,7 @@
 
 An automotive group in your company has come to you with a problem. They are collecting data concerning used car sales and would like to provide their clients (salesman) with suggestions on what price to give for their cars, using a Proof of Concept.
 
-Your final goal is to train a model that will suggest the price of the car. The notebook `` in this repository lays out in detail the approach, explaining the way of thinking, what factors have been taken into account, potential issues and how can this work be continued further.
+Your final goal is to train a model that will suggest the price of the car. The notebook `otomoto_car_price_prediction_random_forest.ipynb` in this repository lays out in detail the approach, explaining the way of thinking, what factors have been taken into account, potential issues and how can this work be continued further.
 
 ## Data source 
 csv file containing info on cars (`car_price_prediction_data.csv.zip`)
